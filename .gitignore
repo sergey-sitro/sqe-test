@@ -1,0 +1,6 @@
+*.log
+*.db
+
+/node_modules/
+/target/
+/bin/
